@@ -1,15 +1,14 @@
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class HolaMundo : MonoBehaviour
 {
-    int x;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         //print("algo paso");
         //x = 0;
         //Debug.LogWarning("Algo salio medio mal");
-       // Debug.LogError("Algo salio muy mal");
+        // Debug.LogError("Algo salio muy mal");
     }
 
     // Update is called once per frame
